@@ -16,7 +16,7 @@ This project is a C-based application designed to read, parse, and analyze histo
 - **crypto_stats.h:** Header file containing structure and function declarations
 - **Makefile:** Makefile to automate the build process
 - **README.md:** Project documentation
-- **sample_data.csv:** Sample CSV file for testing purposes|-- CSV files compatible are downloadable from Kaggle!
+- **sampleCSV.csv:** Sample CSV file for testing purposes -- CSV files compatible are downloadable from Kaggle!
 
 
 ## Getting Started
